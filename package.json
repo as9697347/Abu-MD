@@ -70,7 +70,6 @@
       "spotifydl-core": "^0.2.0",
       "util": "^0.12.4",
       "yargs": "^17.2.1",
-      "yt-search": "^2.10.2",
       "youtube-yts": "2.0.0",          
       "qrcode-reader": "^1.0.4",
       "canvas": "^2.10.1",
@@ -79,7 +78,6 @@
       "imgur": "2.2.0",
       "aes256":"1.1.0",
       "express": "latest",
-      "ytdl-core": "latest",
       "youtubedl-core": "^4.11.2",
       "pastebin-js": "^1.0.6"      
    }
